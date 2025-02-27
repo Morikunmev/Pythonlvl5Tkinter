@@ -1,0 +1,10 @@
+Entry:
+n4: login con entry
+
+Radiobutton:
+
+
+listbox:
+recuperar y multiple recuperar
+Uso de Scroll
+

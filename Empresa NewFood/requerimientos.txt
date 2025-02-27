@@ -1,0 +1,9 @@
+El usuario ingresa la cantidad de personas:
+-Calculo Producto * Persona = 1(persona) *3(producto)
+
+Producto:
+-cantidad de producto
+-Porcentaje de producto Vendido
+
+-Añadir un id
+
